@@ -1,10 +1,11 @@
 <h1 align="center">Hola 👋, Mi nombre es Melissa Monroy M.</h1>
 <h3 align="center">Soy una Fullstack developer egresada del Bootcamp Henry</h3>
 
-- 👩‍💻 Background **Soy una Full Stack Developer egresada del Bootcamp Henry con experiencia en negocios internacionales y servicio al cliente, lo que me ha permitido desarrollar habilidades de trabajo en equipo, toma de decisiones bajo presión, capacidad de comprensión y resolución de las necesidades de los clientes de manera eficiente. Nivel de inglés B2**
+- 👩‍💻 Background **Cuento con conocimientos en desarrollo web, diseño UX UI, servicio al cliente y negocios internacionales. Experiencia que me ha permitido desarrollar habilidades de trabajo en equipo, autoaprendizaje, atención al detalle, resolución de problemas. Además, manejo tecnologías y/o herramientas como Git, HTML, CSS, JavaScript, React, Redux, NodeJs, Sequelize, Express y Bootstrap.
+. Nivel de inglés B2**
 
 - 📫 Contacto **melissamonroy@hotmail.com**
-- 📌 Programar una meeting **https://calendly.com/mmonroy94**
+- 📌 Behance portfolio **www.behance.net/melissamonroy2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
