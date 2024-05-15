@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Melissa</h1>
-- 👩‍💻 Background **Cuento con conocimientos en desarrollo web, diseño UX UI, servicio al cliente y negocios internacionales. Experiencia que me ha permitido desarrollar habilidades de trabajo en equipo, autoaprendizaje, atención al detalle, resolución de problemas. Además, manejo tecnologías y/o herramientas como Git, HTML, CSS, JavaScript, React, Redux, NodeJs, Sequelize, Express y Bootstrap. Nivel de inglés B2**
+- 👩‍💻 Background **Cuento con conocimientos en desarrollo web, diseño UX UI, servicio al cliente y negocios internacionales. Experiencia que me ha permitido desarrollar habilidades de trabajo en equipo, autoaprendizaje, atención al detalle, resolución de problemas. Además, manejo tecnologías y/o herramientas como Git, HTML, CSS, JavaScript, React, Redux, NodeJs, Sequelize, Express y Bootstrap. 
+Nivel de inglés B2. 
+Cursando ingeniería informática en la Universidad Autonoma de Occidente - Colombia**
 
 - 📫 Contacto **melissamonroy@hotmail.com**
 - 📌 Behance portfolio **www.behance.net/melissamonroy2**
