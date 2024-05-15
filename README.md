@@ -4,8 +4,8 @@
 - Nivel de inglés B2. 
 - Cursando ingeniería informática en la Universidad Autónoma de Occidente - Colombia
 
-- 📫 Contacto **melissamonroy@hotmail.com**
-- 📌 Behance portfolio **www.behance.net/melissamonroy2**
+- ✉️ Contacto **melissamonroy@hotmail.com**
+- ⭐ Behance portfolio **www.behance.net/melissamonroy2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
