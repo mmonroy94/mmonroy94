@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Melissa</h1>
-👩‍💻 Cuento con conocimientos en desarrollo web, diseño UX UI, servicio al cliente y negocios internacionales. Experiencia que me ha permitido desarrollar habilidades de trabajo en equipo, autoaprendizaje, atención al detalle, resolución de problemas. Además, manejo tecnologías y/o herramientas como Git, HTML, CSS, JavaScript, React, Redux, NodeJs, Sequelize, Express y Bootstrap. 
+👩‍💻 Cuento con conocimientos en desarrollo web, diseño UX UI, servicio al cliente y negocios internacionales. Experiencia que me ha permitido desarrollar habilidades de trabajo en equipo, autoaprendizaje, atención al detalle, resolución de problemas. Además, manejo tecnologías y/o herramientas como Git, HTML, CSS, JavaScript, React, Redux, Bootstrap, TailwindCSS. 
 
 - Nivel de inglés B2. 
 - Cursando ingeniería informática en la Universidad Autónoma de Occidente - Colombia
